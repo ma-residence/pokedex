@@ -1,8 +1,8 @@
-.item > * {
+.pokemon > * {
 	border-left: 1px solid white;
 	padding: 10px;
 }
 
-.item > *:first-child {
+.pokemon > *:first-child {
 	border-left: Opx;
 }
